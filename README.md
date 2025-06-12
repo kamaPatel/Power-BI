@@ -1,4 +1,4 @@
-# **Custom Jewelry Production & Sales Dashboard**
+# Custom Jewelry Production & Sales Dashboard
 
 This interactive dashboard offers a comprehensive view of both production and sales operations in a custom jewelry business. It enables teams to monitor process efficiency, manage delays, and make informed business decisions through insightful visuals and metrics.
 
@@ -18,4 +18,5 @@ Users can explore top-performing customers using a dynamic slicer that filters t
 The dashboard breaks down total sales into diamond value, gold value, and labor charges, offering a clear understanding of revenue composition. Additional visuals highlight sales by region and salesperson, while a drillable line chart displays sales trends over time. Key figures like total sales and total quantity sold are always visible and update with filter selections.
 
 Preview:
+
 ![Dashboard Preview](asset/preview.gif)
