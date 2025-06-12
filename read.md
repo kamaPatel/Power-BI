@@ -17,4 +17,4 @@ Users can explore top-performing customers using a dynamic slicer that filters t
 The dashboard breaks down total sales into diamond value, gold value, and labor charges, offering a clear understanding of revenue composition. Additional visuals highlight sales by region and salesperson, while a drillable line chart displays sales trends over time. Key figures like total sales and total quantity sold are always visible and update with filter selections.
 
 Preview:
-![Dashboard Preview](asset/dashboard-preview.gif)
+![Dashboard Preview](asset/preview.gif)
