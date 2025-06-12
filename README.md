@@ -20,3 +20,23 @@ The dashboard breaks down total sales into diamond value, gold value, and labor 
 Preview:
 
 ![Dashboard Preview](asset/preview.gif)
+
+# Customer Query Tracking Dashboard
+
+This dashboard helps teams manage and analyze customer service queries with ease. It provides insights into how queries flow through departments, platforms, and resolution timelines.
+
+Key Features:
+
+1️⃣ View customer queries by source (email, phone, social media) to understand where most issues are reported.
+
+2️⃣ Automatically map each query to its related department and topic for better resource allocation.
+
+3️⃣ Track query status and resolution time with visual indicators for delays or bottlenecks.
+
+4️⃣ Filter queries by custom time ranges to identify patterns and spikes in activity.
+
+5️⃣ Monitor individual/team performance using average resolution time and assignment data.
+
+Preview:
+
+![Dashboard Preview](asset/previewcustomer.gif)
