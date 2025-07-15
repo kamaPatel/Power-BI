@@ -60,3 +60,25 @@ What This Dashboard Brings to Management:
 Preview:
 
 ![Dashboard Preview](asset/emplyeemanagement.gif)
+
+# Booking Insights Dashboard
+
+This dashboard provides a comprehensive view of booking patterns, revenue streams, and product performance, enabling businesses to make informed decisions on operations and sales strategies. It offers an interactive platform for analyzing booking data across venues, products, and categories while tracking revenue trends and customer behavior.
+
+What This Dashboard Delivers:
+
+1️⃣ A dynamic date range filter to analyze booking trends over specific time periods, enhancing temporal analysis of sales performance.
+
+2️⃣ Venue-wise insights showing income, average booking value, and transaction volumes, helping management evaluate location-specific performance.
+
+3️⃣ Comparative analysis of income generated from pre-bookings versus walk-in bookings, supporting better forecasting and promotional planning.
+
+4️⃣ Revenue breakdown by product and category, offering clarity on high-performing items and areas for growth.
+
+5️⃣ Interactive line charts displaying average income per booking over time, giving a visual trend of revenue flow across different venues.
+
+6️⃣ A comprehensive transaction overview table summarizing booking details, transaction counts, and revenue, providing a clear operational snapshot.
+
+Preview:
+
+![Dashboard Preview](asset/booking.gif)
